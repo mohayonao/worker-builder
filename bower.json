@@ -1,0 +1,11 @@
+{
+  "name": "worker-builder",
+  "version": "0.1.0",
+  "main": "./worker-builder.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
