@@ -3,7 +3,7 @@
 
 ## Downloads
 
-  - [WorkerBuilder](http://mohayonao.github.io/worker-builder/worker-builder.jsj)
+  - [WorkerBuilder](http://mohayonao.github.io/worker-builder/worker-builder.js)
 
 ## API
 - `constructor(func : function) : WorkerBuilder`
